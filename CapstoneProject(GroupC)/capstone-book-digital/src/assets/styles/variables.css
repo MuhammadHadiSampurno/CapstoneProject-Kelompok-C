@@ -1,0 +1,19 @@
+:root {
+  --color-primary: #005baa;
+  --color-primary-dark: #00457f;
+  --color-secondary: #f4f7fb;
+
+  --color-white: #ffffff;
+  --color-black: #1f1f1f;
+  --color-gray: #6b7280;
+  --color-light-gray: #e5e7eb;
+
+  --font-family: Arial, Helvetica, sans-serif;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.10);
+}
